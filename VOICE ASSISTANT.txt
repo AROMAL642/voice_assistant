@@ -1,0 +1,7 @@
+VOICE ASSISTANT
+
+
+pip install vosk wave playsound gtts os wolframalpha aelenium pyttsx3 pyaudio request
+
+
+#vosk model is needed for offline sppech recognition
